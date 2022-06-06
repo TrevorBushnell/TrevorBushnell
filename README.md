@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of data science and statistics. On my way to becoming a data scientist. I use Python, R, and Julia to do my data science and computational mathematics tasks. 
+I'm a student of data science and statistics. I use Python, R, and Julia to do my data science and computational mathematics tasks. 
 
 #### Resources
 Check out any of these public resources that I have pubicly available:
