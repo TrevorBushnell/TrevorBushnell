@@ -3,7 +3,7 @@
 I'm a student of data science and statistics. I use Python, R, and Julia to do my data science and computational mathematics tasks. 
 
 #### Resources
-Check out any of these public resources that I have pubicly available:
+Check out any of these resources that I have pubicly available:
 
 * [STEM Notes:](https://github.com/TrevorBushnell/STEM-Notes) Find notes to many math/computer science courses that I have taken in my collegiate career. Written in Jupyter notebooks and LaTeX. 
 * [Data Science Resources:](https://github.com/TrevorBushnell/Data-Science-Resources) My notes, cheat sheets, and other resources I have created for learning and mastering data science. Will be continuously updated as I learn more!
