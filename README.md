@@ -14,3 +14,7 @@ I have done very basic projects in my studies where I analyze [my own typing dat
 
 #### Other Projects
 I occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns. 
+
+#### LinkedIn
+
+My [LinkedIn](https://www.linkedin.com/in/trevor-bushnell-737546229/) profile is a work in progress, but feel free to check me out over there. 
