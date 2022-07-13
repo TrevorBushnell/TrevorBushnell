@@ -13,7 +13,7 @@ Check out any of these resources that I have pubicly available:
 I have done very basic projects in my studies where I analyze [my own typing data](https://github.com/TrevorBushnell/MonkeyType-Data-Project) and predict the results of [League of Legends games](https://github.com/TrevorBushnell/League-Game-Prediction-Project). 
 
 #### Other Projects
-I occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns. 
+I occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns. Additionally, I'm passionate about SSI (self-sovereign identity), a new technology that is allowing us to verify our identities on the internet - a feat that we have yet to accomplish in the digital age.
 
 #### LinkedIn
 
