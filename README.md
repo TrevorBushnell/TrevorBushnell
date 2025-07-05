@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of data science and statistics. I use Python, R, and Julia to do my data science and computational mathematics tasks. 
+I'm a recent graduate with a focus on data science and statistics. While I currently work as a software developer primarily working in Rust and Python, I also dabble in R and Julia for my side data projects.
 
 #### New To Me? Start Here:
 * [My Honors Thesis - Singable AI Bach:](https://github.com/TrevorBushnell/Singing-AI-Bach) the codebase for my honors thesis, including my final paper, research articles, code that I wrote, and more.
